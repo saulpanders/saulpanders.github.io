@@ -1,4 +1,4 @@
 # frozen_string_literal: true
-gem "jekyll-theme-hydure"
+gem "jekyll-remote-theme"
 source "https://rubygems.org"
 gemspec

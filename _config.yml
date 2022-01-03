@@ -1,6 +1,9 @@
-theme: jekyll-theme-hydure
 title: Yet Another Blog
 tagline: "@saulpanders"
 description: Feel free to bookmark this page to watch for updates
 author.name: saulpanders
 lang: en-us
+plugins:
+  - jekyll-remote-theme
+remote_theme: zivong/jekyll-theme-hydure
+
