@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+permalink: /about
 ---
 ## Who Am I?
 Hi there! \
