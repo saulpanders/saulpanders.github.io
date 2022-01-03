@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto:phsanders@protonmail.com
+  icon: fas fa-envelope
+- title: Twitter
+  url: https://twitter.com/saul_panders
+  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/saulpanders
+  icon: fab fa-github
