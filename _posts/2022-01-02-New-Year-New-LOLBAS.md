@@ -68,7 +68,11 @@ C:\> winget.exe install --manifest .\winget-manifest-test.yml
 #### Profit?
 The screenshot below demonstrates a view of our processes from ProcessHacker. 
 ![ProcessHacker](/assets/img/2022-01-02-New-Year-New-LOLBAS/ProcessHacker_view.png)
-Notice how our test.exe payload had its name changed to TestInstall.1.0.0.exe, reflecting the information outlined in our manifest file. 
+A couple of things to note:
+ - Our test.exe payload had its name changed to TestInstall.1.0.0.exe, reflecting the information outlined in our manifest file.
+ - During installation, TestInstall.1.0.0.exe becomes a child of AppInstallerCLI.exe
+ 
+#### Demo Log
 For completeness sake, here is winget's log output from our demo:
 ![Winget Log](/assets/img/2022-01-02-New-Year-New-LOLBAS/log.png)
 
