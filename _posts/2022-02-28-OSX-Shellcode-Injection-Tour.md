@@ -100,7 +100,7 @@ All you need to really know is that not <i>all</i> sections of a program's virtu
 Now lets proceed to more interesting matters...
 
 ### Stack
-We'll begin by taking a peek at what shenanigans we can get away with on the stack. Recall that in C, local variables are allocated on the stack and exist only for the duration of the current stack frame, while global variables live in the heap and persist for the entire lifespan of the process. \
+We'll begin by taking a peek at what shenanigans we can get away with on the stack. Recall that in C, local variables are allocated on the stack and exist only for the duration of the current stack frame, while global variables live in the heap and persist for the entire lifespan of the process. 
 
 Here we declare our shellcode as a local variable, and execute it by dereferencing a function pointer we set to point to the shellcode's address.
 ```
