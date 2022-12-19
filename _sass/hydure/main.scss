@@ -9,7 +9,8 @@
 @import "archive";
 @import "message";
 @import "alignment";
-@import "highlight-light";
+@import "highlight-dark";
+@import "p5js";
 
 @media (prefers-color-scheme: dark) {
   @import "highlight-dark";

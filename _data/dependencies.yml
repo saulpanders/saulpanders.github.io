@@ -1,0 +1,14 @@
+- name: p5
+  element: <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/p5.min.js"></script>
+
+- name: p5.dom
+  element: <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/addons/p5.dom.min.js"></script>
+
+- name: p5.sound
+  element: <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/addons/p5.sound.min.js"></script>
+
+- name: mathjax
+  element: <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+- name: polyfill
+  element: <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
