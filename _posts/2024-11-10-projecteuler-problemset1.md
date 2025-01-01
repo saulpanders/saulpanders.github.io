@@ -310,14 +310,14 @@ A &=
 
 \\
 
-P &=
+S &=
 \begin{bmatrix}
  \phi  & -\phi^{-1} \\  
  1 & 1 \\
 \end{bmatrix}
 ,
 
-&P^{-1} = 
+&S^{-1} = 
 \begin{bmatrix}
  1  & -\phi^{-1} \\  
  -1 & \phi \\
