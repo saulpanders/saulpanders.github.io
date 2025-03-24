@@ -195,4 +195,3 @@ Cheers, and Happy New Year!
 - [Llama Official Website](https://www.llama.com/)
 - [Wikipedia: Chinese Room](https://en.wikipedia.org/wiki/Chinese_room)
 - [Wikipedia: Retrieval-augmented Generation (RAG)](https://en.wikipedia.org/wiki/Retrieval-augmented_generation)
-
